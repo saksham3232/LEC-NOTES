@@ -215,3 +215,12 @@ elif not st.session_state.review_input.strip():
 - The IMDB dataset is automatically downloaded by TensorFlow on first run.
 - For best results, run the app in a Python environment with the specified versions of TensorFlow and Keras.
 
+---
+
+## 🙏 Credits
+
+- [TensorFlow Datasets - IMDB Reviews](https://www.tensorflow.org/datasets/community_catalog/huggingface/imdb)
+- [Streamlit](https://streamlit.io/)
+- Project by [saksham3232](https://github.com/saksham3232)
+
+---
